@@ -1,0 +1,7 @@
+*/newtrains
+*/trains
+*.cache
+test
+runs
+yolo*.pt
+

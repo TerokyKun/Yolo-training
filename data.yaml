@@ -1,0 +1,15 @@
+train: C:\Users\maxkl\Downloads\crash\images\newtrains
+val: C:\Users\maxkl\Downloads\crash\images\newtrains
+
+nc: 10
+names: 
+  - crashed car
+  - skid
+  - collision point
+  - crash stop
+  - indistinguishable
+  - burning
+  - the car goes on its side
+  - motocycle accident
+  - hit-and-run pedestrian
+  - none
