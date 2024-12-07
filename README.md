@@ -5,6 +5,7 @@
 Вот пример data 
 
 train: C:\Users\maxkl\Downloads\crash\images\trains
+
 val: C:\Users\maxkl\Downloads\crash\images\trains
 
 nc: 1
